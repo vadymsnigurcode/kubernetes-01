@@ -1,0 +1,24 @@
+{
+  "name": "kubernetes",
+  "version": "1.0.0",
+  "description": "used resource: https://dev.to/francescoxx/kubernetes-quick-tutorial-2el7",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadymsnigurcode/kubernetes-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vadymsnigurcode/kubernetes-01/issues"
+  },
+  "homepage": "https://github.com/vadymsnigurcode/kubernetes-01#readme"
+}
